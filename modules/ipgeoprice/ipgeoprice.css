@@ -1,0 +1,39 @@
+header .banner{background-color: #fff}
+#city1 {
+	position: absolute;
+	z-index: 9000;
+	background-color: #fff;
+	border: solid 1px #999 ;
+	border-radius: 5px;
+	display:none;
+	padding: 15px;
+	-webkit-column-count: 8;
+    -moz-column-count: 8;
+    column-count: 8;
+	-webkit-column-gap: 20px;
+    -moz-column-gap: 20px;
+    column-gap: 20px;
+    -webkit-column-rule: 1px solid #ccc;
+    -moz-column-rule: 1px solid #ccc;
+    column-rule: 1px solid #ccc;
+	width:100%;
+}
+#city1 .boldletter {font-weight:700;color:#a00;font-size:1.4em;padding-top:4px;}
+#city1 .boldletter.first {padding-top:0px;}
+#city1 .citysel {line-height:1em;margin:3px 0;}
+#city1 .citysel.marker {font-weight:700;text-transform:uppercase;color:#800;}
+#city1 .citysel:hover {text-decoration:underline;color:#000;cursor:pointer;}
+
+#support_block .out-sup .type-text{
+	display: inline-block;
+
+
+}
+#support_block .out-sup .type-text h4 {
+	font-family: impact, sans-serif;
+	color: #000;
+}
+#support_block .out-sup .icon-support-service {
+	float: left;
+	margin-right: 15px;
+}

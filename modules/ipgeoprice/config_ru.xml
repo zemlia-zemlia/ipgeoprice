@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>ipgeoprice</name>
+	<displayName><![CDATA[Геотаргетинг]]></displayName>
+	<version><![CDATA[1.0.00]]></version>
+	<description><![CDATA[Определяет по айпи местоположение посетителя и выводит цены соответственно]]></description>
+	<author><![CDATA[Andrey]]></author>
+	<tab><![CDATA[others]]></tab>
+	<confirmUninstall><![CDATA[Вы действительно хотите удалить модуль?]]></confirmUninstall>
+	<is_configurable>0</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

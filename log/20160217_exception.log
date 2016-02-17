@@ -1,0 +1,15 @@
+*ERROR* 	2016/02/17 - 08:30:20: Query was empty at line 794 in file classes/db/Db.php
+*ERROR* 	2016/02/17 - 08:32:32: Table 'test.adress' doesn't exist<br /><br /><pre>SELECT SQL_NO_CACHE * FROM `adress` WHERE city = (SELECT name FROM `ips_cities` WHERE id = (SELECT citycode FROM `ips` WHERE '2130706433'>=`ipfrom` AND '2130706433'<=`ipto`)) LIMIT 1</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2016/02/17 - 08:36:27: Query was empty at line 794 in file classes/db/Db.php
+*ERROR* 	2016/02/17 - 08:41:13: Query was empty at line 794 in file classes/db/Db.php
+*ERROR* 	2016/02/17 - 08:41:17: Query was empty at line 794 in file classes/db/Db.php
+*ERROR* 	2016/02/17 - 08:41:56: Query was empty at line 794 in file classes/db/Db.php
+*ERROR* 	2016/02/17 - 08:42:33: Query was empty at line 794 in file classes/db/Db.php
+*ERROR* 	2016/02/17 - 08:42:36: Query was empty at line 794 in file classes/db/Db.php
+*ERROR* 	2016/02/17 - 08:43:04: Query was empty at line 794 in file classes/db/Db.php
+*ERROR* 	2016/02/17 - 08:43:12: Query was empty at line 794 in file classes/db/Db.php
+*ERROR* 	2016/02/17 - 08:43:27: Query was empty at line 794 in file classes/db/Db.php
+*ERROR* 	2016/02/17 - 08:43:30: Query was empty at line 794 in file classes/db/Db.php
+*ERROR* 	2016/02/17 - 08:43:39: Query was empty at line 794 in file classes/db/Db.php
+*ERROR* 	2016/02/17 - 08:43:44: Table 'test.adress' doesn't exist<br /><br /><pre>SELECT SQL_NO_CACHE * FROM `adress` WHERE city = (SELECT name FROM `ips_cities` WHERE id = (SELECT citycode FROM `ips` WHERE '2130706433'>=`ipfrom` AND '2130706433'<=`ipto`)) LIMIT 1</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2016/02/17 - 08:45:25: Query was empty at line 794 in file classes/db/Db.php

@@ -1,0 +1,6 @@
+*ERROR* 	2016/02/17 - 00:34:47: Ошибка SQL-запроса <i>All parts of a PRIMARY KEY must be NOT NULL; if you need NULL in a key, use UNIQUE instead</i>
+*ERROR* 	2016/02/17 - 00:36:52: Ошибка SQL-запроса <i>All parts of a PRIMARY KEY must be NOT NULL; if you need NULL in a key, use UNIQUE instead</i>
+*ERROR* 	2016/02/17 - 00:41:25: Ошибка SQL-запроса <i>All parts of a PRIMARY KEY must be NOT NULL; if you need NULL in a key, use UNIQUE instead</i>
+*ERROR* 	2016/02/17 - 00:57:02: Ошибка SQL-запроса <i>All parts of a PRIMARY KEY must be NOT NULL; if you need NULL in a key, use UNIQUE instead</i>
+*ERROR* 	2016/02/17 - 01:00:49: Ошибка SQL-запроса <i>All parts of a PRIMARY KEY must be NOT NULL; if you need NULL in a key, use UNIQUE instead</i>
+*ERROR* 	2016/02/17 - 01:07:42: Ошибка SQL-запроса <i>All parts of a PRIMARY KEY must be NOT NULL; if you need NULL in a key, use UNIQUE instead</i>
